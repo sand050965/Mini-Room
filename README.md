@@ -53,7 +53,7 @@ Mini Room is a real-time video conferencing system that supports multi-user vide
 
   ![image](https://github.com/sand050965/Mini-Room/blob/main/readme/screenShare.gif?raw=true)
 
-### AI Hand Tracking Canvas [(more info ...)](https://github.com/sand050965/Hand-Tracking-Canvas)
+### Hand Tracking Canvas [(more info ...)](https://github.com/sand050965/Hand-Tracking-Canvas)
 - Use MediaPipe to implement hand tracking.
 - Use OpenCV to process images.
 
