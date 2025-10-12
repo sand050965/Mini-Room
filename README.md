@@ -3,7 +3,7 @@
 <p align="center">
   <img width="350" src="https://github.com/sand050965/Mini-Room/blob/main/readme/logo.png?raw=true">
 </p>
-Mini Room is a real-time video conferencing system that supports concurrent peer-to-peer video calls, online meetings, and instant messaging.
+Mini Room is a real-time video conferencing system that supports multi-user video calls and instant messaging.
 <br/>
 <br/>
 📄 API Doc: https://app.swaggerhub.com/apis/SAND050965_1/mini-room_api/1.0.0
